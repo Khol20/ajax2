@@ -32,6 +32,11 @@
 
 <img width="929" alt="image" src="https://github.com/Khol20/ajax2/assets/147450314/81488d04-ec09-4dc4-9e16-48645b1083b4">
 
+//Recherche de machines par reference :
+
+<img width="935" alt="image" src="https://github.com/Khol20/ajax2/assets/147450314/ac7e08a5-8a37-4bca-acde-e7cd066b743f">
+
+
 //Graphe du nombre de machines par marque :
 <img width="926" alt="image" src="https://github.com/Khol20/ajax2/assets/147450314/f813f23c-831a-4c7e-bcec-f1d83afd6e53">
 
